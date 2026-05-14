@@ -1,4 +1,4 @@
-package org.example.langchain4j.tripplanner
+package org.example.langchain4j.tripplanner.basic
 
 import dev.langchain4j.service.SystemMessage
 import dev.langchain4j.service.UserMessage

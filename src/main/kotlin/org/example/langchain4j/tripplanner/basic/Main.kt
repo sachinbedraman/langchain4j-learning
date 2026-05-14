@@ -1,7 +1,6 @@
-package org.example.langchain4j.tripplanner
+package org.example.langchain4j.tripplanner.basic
 
 import dev.langchain4j.model.googleai.GoogleAiGeminiChatModel
-import dev.langchain4j.model.googleai.GoogleAiGeminiModelCatalog
 import dev.langchain4j.service.AiServices
 import org.example.langchain4j.common.APIKeys
 
